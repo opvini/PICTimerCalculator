@@ -1,0 +1,20 @@
+
+
+#corpo{
+	margin: 0 auto;
+	width: 900px;
+	margin-top: 50px;
+}
+
+#brasao_guarda{
+	margin: 0 auto;
+	margin-top: 90px;
+	background:url(../../images/logo_sistema.PNG) no-repeat;
+	width: 252px;
+	height: 449px;
+}
+
+#ui.header.titulo{
+	margin-top: 50px;
+}
+

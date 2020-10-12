@@ -1,0 +1,44 @@
+@import 'http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic';
+
+html,
+body {
+  font-size: 15px;
+}
+
+
+body {
+  font-family: "Open Sans", "Helvetica Neue", "Lato", "Helvetica", "Arial", sans-serif;
+  /*background: #FCFCFC url(../../images/bg.jpg) repeat;*/
+  background: #FCFCFC;
+  margin: 0px;
+  padding: 0px;
+  color: #555555;
+  min-width: 320px;
+}
+
+body > .content  {
+  background: #FCFCFC url(../../images/bg.jpg) repeat;
+}
+
+
+.ui.dividing.header.titulo{
+	margin-bottom: 30px;
+}
+
+#form_calc{
+	width: 350px;
+	margin: 0 auto;
+}
+
+#espaco_topo{
+	width: 450px;
+	height: 200px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+	margin-top: 20px;
+	display: block;
+}
+
+#espaco_topo h2{
+	margin-top: 50px;
+}

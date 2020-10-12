@@ -1,0 +1,15 @@
+
+#form_login{
+	width: 350px;
+	margin: 0 auto;
+}
+
+#logo_guarda{
+	background: url(../../images/logo_small.png) no-repeat;
+	width: 118px;
+	height: 150px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+	margin-top: 20px;
+	display: block;
+}

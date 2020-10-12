@@ -1,0 +1,57 @@
+
+body{
+	margin: 10px;
+	width: 200mm;
+}
+
+#tabela_bos{
+	width: 800px;
+	margin: 0 auto;
+}
+
+#brasao_guarda_topo{
+	position: absolute;
+	background:url(../../images/logo_topo.PNG) no-repeat;
+	width: 73px;
+	height: 92px;
+	z-index: 0;
+	top: 12px;
+	left: 20px;
+}
+
+
+#principal_topo{
+	display: block;
+	height: 100px;
+	margin-bottom: 20px;
+}
+
+#topo_print{
+	margin-left: 100px;
+	height: 100%;
+}
+
+
+table td{
+	background:#FFF;
+	font-weight:bold;
+	font-size:14px;
+}
+
+.dado{
+	font-size: 12px;
+	margin: 0;
+	padding: 0;
+	margin-left: 5px;
+	text-transform:uppercase;
+	font-weight:normal;
+}
+
+.titulo_geral{
+	font-size:20px;
+}
+
+.dado_titulo{
+	font-weight: normal;
+	text-transform:uppercase;
+}
